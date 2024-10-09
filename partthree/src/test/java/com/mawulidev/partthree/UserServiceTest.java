@@ -3,6 +3,7 @@ package com.mawulidev.partthree;
 import com.mawulidev.partthree.repository.UserRepository;
 import com.mawulidev.partthree.service.UserServiceImpl;
 import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
 import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
